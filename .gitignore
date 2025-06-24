@@ -23,4 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+
 todo.md
